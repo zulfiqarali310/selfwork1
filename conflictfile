@@ -1,1 +1,5 @@
 This file should be used to check the conflict among the files
+this text should be used to remove conflict
+
+This conflit file should be tested from dev1 file
+>>>>>>> dev1
